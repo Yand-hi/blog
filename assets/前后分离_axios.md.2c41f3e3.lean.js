@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,R as l}from"./chunks/framework.5dd80646.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"前后分离/axios.md"}'),p={name:"前后分离/axios.md"},o=l("",6),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

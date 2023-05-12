@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,R as p}from"./chunks/framework.5dd80646.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/prop单向数据流.md"}'),l={name:"Vue/prop单向数据流.md"},o=p("",8),e=[o];function t(r,c,F,i,y,D){return n(),a("div",null,e)}const A=s(l,[["render",t]]);export{d as __pageData,A as default};

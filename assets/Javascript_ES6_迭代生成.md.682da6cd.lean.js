@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,R as l}from"./chunks/framework.5dd80646.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Javascript/ES6/迭代生成.md"}'),o={name:"Javascript/ES6/迭代生成.md"},p=l("",16),e=[p];function t(c,r,y,F,D,C){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{i as __pageData,d as default};

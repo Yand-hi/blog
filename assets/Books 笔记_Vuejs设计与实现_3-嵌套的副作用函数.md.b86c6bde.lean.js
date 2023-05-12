@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,R as l}from"./chunks/framework.35669211.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Books 笔记/Vuejs设计与实现/3-嵌套的副作用函数.md"}'),p={name:"Books 笔记/Vuejs设计与实现/3-嵌套的副作用函数.md"},o=l("",7),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}const i=s(p,[["render",t]]);export{f as __pageData,i as default};

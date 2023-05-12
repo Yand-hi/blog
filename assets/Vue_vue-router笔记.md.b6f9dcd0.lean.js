@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,R as l}from"./chunks/framework.5dd80646.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/vue-router笔记.md"}'),o={name:"Vue/vue-router笔记.md"},p=l("",31),e=[p];function t(c,r,i,y,D,F){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{C as __pageData,d as default};

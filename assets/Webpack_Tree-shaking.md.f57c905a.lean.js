@@ -1,1 +1,0 @@
-import{_ as e,c,o as t,R as o}from"./chunks/framework.5dd80646.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Webpack/Tree-shaking.md"}'),a={name:"Webpack/Tree-shaking.md"},r=o("",5),s=[r];function _(n,d,p,i,T,k){return t(),c("div",null,s)}const m=e(a,[["render",_]]);export{l as __pageData,m as default};

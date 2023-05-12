@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,R as l}from"./chunks/framework.5dd80646.js";const C=JSON.parse('{"title":"动态组件","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/动态和异步组件.md"}'),o={name:"Vue/动态和异步组件.md"},p=l("",17),e=[p];function t(c,r,D,i,y,F){return n(),a("div",null,e)}const A=s(o,[["render",t]]);export{C as __pageData,A as default};

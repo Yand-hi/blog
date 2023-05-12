@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,R as l}from"./chunks/framework.35669211.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Webpack/Wepack配置Vue2项目.md"}'),p={name:"Webpack/Wepack配置Vue2项目.md"},o=l("",39),e=[o];function t(c,r,D,y,F,i){return n(),a("div",null,e)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};
