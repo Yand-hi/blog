@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,R as l}from"./chunks/framework.35669211.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Javascript/ES6/Generator函数.md"}'),o={name:"Javascript/ES6/Generator函数.md"},p=l("",22),e=[p];function t(c,r,y,F,D,i){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{C as __pageData,d as default};
