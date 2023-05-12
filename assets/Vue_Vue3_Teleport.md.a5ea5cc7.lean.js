@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,R as o}from"./chunks/framework.5dd80646.js";const y=JSON.parse('{"title":"Teleport","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/Vue3/Teleport.md"}'),a={name:"Vue/Vue3/Teleport.md"},l=o("",6),p=[l];function n(c,r,i,d,_,D){return s(),t("div",null,p)}const F=e(a,[["render",n]]);export{y as __pageData,F as default};

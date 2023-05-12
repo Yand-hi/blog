@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as i,R as o}from"./chunks/framework.5dd80646.js";const m=JSON.parse('{"title":"虚拟DOM","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/Diff算法与虚拟DOM.md"}'),a={name:"Vue/Diff算法与虚拟DOM.md"},d=o("",20),t=[d];function c(r,f,n,h,s,u){return i(),l("div",null,t)}const p=e(a,[["render",c]]);export{m as __pageData,p as default};

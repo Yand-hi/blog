@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,R as l}from"./chunks/framework.5dd80646.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Webpack/code-splitting.md"}'),p={name:"Webpack/code-splitting.md"},o=l("",9),e=[o];function t(c,r,F,D,y,i){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{d as __pageData,u as default};

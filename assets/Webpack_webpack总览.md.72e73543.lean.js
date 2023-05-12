@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,R as l}from"./chunks/framework.5dd80646.js";const u=JSON.parse('{"title":"什么是 webpack，有什么用？","description":"","frontmatter":{},"headers":[],"relativePath":"Webpack/webpack总览.md"}'),c={name:"Webpack/webpack总览.md"},i=l("",18),r=[i];function t(d,n,p,s,b,h){return o(),a("div",null,r)}const w=e(c,[["render",t]]);export{u as __pageData,w as default};

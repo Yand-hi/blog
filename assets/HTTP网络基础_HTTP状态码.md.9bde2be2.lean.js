@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,R as e}from"./chunks/framework.5dd80646.js";const P=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"HTTP网络基础/HTTP状态码.md"}'),t={name:"HTTP网络基础/HTTP状态码.md"},r=e("",9),o=[r];function _(n,s,h,c,d,u){return i(),l("div",null,o)}const f=a(t,[["render",_]]);export{P as __pageData,f as default};

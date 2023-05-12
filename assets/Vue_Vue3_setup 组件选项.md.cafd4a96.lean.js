@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,R as p}from"./chunks/framework.5dd80646.js";const A=JSON.parse('{"title":"组合式 API","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/Vue3/setup 组件选项.md"}'),l={name:"Vue/Vue3/setup 组件选项.md"},o=p("",9),e=[o];function t(c,r,y,D,F,i){return n(),a("div",null,e)}const d=s(l,[["render",t]]);export{A as __pageData,d as default};
