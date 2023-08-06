@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,R as l}from"./chunks/framework.35669211.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"HTTP网络基础/http与https.md"}'),r={name:"HTTP网络基础/http与https.md"},o=l("",27),s=[o];function i(h,S,n,p,d,c){return e(),t("div",null,s)}const _=a(r,[["render",i]]);export{u as __pageData,_ as default};

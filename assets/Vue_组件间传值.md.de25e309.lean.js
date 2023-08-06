@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,R as o}from"./chunks/framework.35669211.js";const m=JSON.parse('{"title":"父子组件","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/组件间传值.md"}'),r={name:"Vue/组件间传值.md"},i=o("",21),d=[i];function n(c,s,l,h,p,u){return t(),a("div",null,d)}const q=e(r,[["render",n]]);export{m as __pageData,q as default};

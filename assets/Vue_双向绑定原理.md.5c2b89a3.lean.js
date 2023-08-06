@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,R as l}from"./chunks/framework.35669211.js";const A=JSON.parse('{"title":"双向绑定原理","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/双向绑定原理.md"}'),o={name:"Vue/双向绑定原理.md"},p=l("",11),e=[p];function t(c,r,D,F,y,i){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{A as __pageData,d as default};
